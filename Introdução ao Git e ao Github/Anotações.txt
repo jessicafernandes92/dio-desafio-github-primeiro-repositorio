@@ -1,0 +1,4 @@
+SHIFT + INSERT - cola no Git Hash
+git status - mostra o status dos arquivos - se tem algum que não está no servidor remoto
+git add . - adiciona os arquivos no servidor local
+git commit - m
